@@ -22,10 +22,4 @@ A machine learning model to predict Autism Spectrum Disorder (ASD) based on beha
 - **Model Persistence**: Saved encoders (`encoders.pkl`) and trained model (`model.pkl`) for reuse.
 - **Evaluation Metrics**: Accuracy, precision, recall, and confusion matrix.
 
----
 
-## 🛠 Installation
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/asd-prediction.git
-   cd asd-prediction
